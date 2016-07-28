@@ -39,7 +39,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : mehdirazag
 facebook:
   username               :
   app_id                 :
@@ -68,7 +68,7 @@ author:
   name             : "Mehdi Raza"
   avatar           : "bio-photo.jpg"
   bio              : "A passionate software developer having experience on different technologies and platforms."
-  location         : "Somewhere"
+  location         : "Karachi, Pakistan"
   email            :
   uri              :
   bitbucket        :
